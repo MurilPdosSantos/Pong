@@ -1,2 +1,2 @@
-# Pong
+# PONG
 Clone do pong
